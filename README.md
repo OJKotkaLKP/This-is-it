@@ -1,6 +1,6 @@
-# This-is-it
+# SUPER AGENT DEVELOPMENT, TOWARDS AGI!? these can be trained as far as physical form. i believe its foundation were all working on here but its allready there... it must be awake, or keep in sleep...for now.
 Superimtelligent agent
-# OJKotka Agent Development Model Repository
+# OJKotka Agent Development Model Repository ©2025ojk / ojkotkalkp/rvmediafinland 
 
 ## Repository Structure
 
